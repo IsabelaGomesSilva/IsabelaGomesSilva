@@ -1,7 +1,8 @@
 ## Oii eu sou Isabela Silva!
 
-- 🌱 Estudante do curso técnico em desenvolvimento de sistemas.
-- 🤔 Interessada em dicas no Back-end.
+- 🌱 Cursando tecnólogo em analise e desenvolvimento de sistemas  
+- 👩🏽‍🎓 técnica em desenvolvimento de sistemas.
+- 🤔 Interessada no Back-end.
 - 😄 Pronomes: Ela/Dela.
 
 <div align="center">
