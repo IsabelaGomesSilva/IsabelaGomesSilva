@@ -27,4 +27,6 @@
  
 </div>
 
+[![An image of @isabela_silva's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isabela_silva)](https://holopin.io/@isabela_silva)
+
 
